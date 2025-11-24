@@ -2,7 +2,7 @@
 
 # to activate environment: source venv/bin/activate
 
-## goal: find all space emails from alice (and the others). to simply find alice, comment out lines 9, 10, 33, 34. uncomment lines 8 and 32
+## goal: find all space emails from alice (and the others). to simply find alice, comment out lines 9, 31, 32. uncomment lines 8 and 30
 ## steps:
 # 1. pull message list
 # 2. parse for message id

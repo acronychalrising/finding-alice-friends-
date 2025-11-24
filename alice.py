@@ -7,8 +7,6 @@ import time   # for infinite loop delays
 homepage = "https://space.galaxybuster.net/lib"
 #### target = "alice winchester"
 targets = ["alice winchester", "alice", "nour", "castiel"]
-targets = [t.lower() for t in targets]  # normalize
-
 
 # run forever until we find alice (and the others)
 while True:
